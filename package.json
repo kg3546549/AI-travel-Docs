@@ -2,12 +2,11 @@
   "name": "travel-docs",
   "type": "module",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
   },
   "dependencies": {
-    "astro": "^4.16.0",
-    "@astrojs/starlight": "^0.28.0"
+    "vitepress": "^1.6.3"
   }
 }
