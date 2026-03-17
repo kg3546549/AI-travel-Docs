@@ -22,7 +22,6 @@ export default defineConfig({
         { label: 'Flutter 앱', link: '/07-app' },
         { label: '인프라 & 배포', link: '/08-infra' },
       ],
-      social: [],
     }),
   ],
 })
